@@ -22,3 +22,5 @@ Repository contains a quality README file with description, screenshot, and link
 New Password generating programm was created. Variables such as: number of characters, upeer and lower case letter, special symbols and numbers were added to the function. User are able to chose/regect each of the variable separately in the prompt window. In order to start generate password user will click to "Generate Password" btn, after selection is completed, password will be generated automaticaly. In case user type a string instead of numeric value, alert will warn him to type a number within allowed range. 
 </p>
 
+link to the web <https://aleksamik.github.io/Password-generator/>
+link to GitHub repo <https://github.com/AleksaMik/Password-generator>
