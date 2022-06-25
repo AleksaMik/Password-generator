@@ -11,7 +11,7 @@ Application GitHub URL submitted.
 GitHub repository that contains application code.
 </p>
 
-## Repocitory Quality
+## Repository Quality
 <p>
 Repository has a unique name.
 Repository follows best practices for file structure and naming conventions.
